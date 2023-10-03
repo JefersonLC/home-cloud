@@ -7,10 +7,6 @@
     "type": "git",
     "url": "git+https://github.com/JefersonLC/home-cloud.git"
   },
-  "workspaces": [
-    "client",
-    "server"
-  ],
   "author": "JefersonLC",
   "license": "ISC",
   "bugs": {
