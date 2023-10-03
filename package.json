@@ -1,0 +1,20 @@
+{
+  "name": "home-cloud",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JefersonLC/home-cloud.git"
+  },
+  "workspaces": [
+    "client",
+    "server"
+  ],
+  "author": "JefersonLC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JefersonLC/home-cloud/issues"
+  },
+  "homepage": "https://github.com/JefersonLC/home-cloud#readme"
+}
